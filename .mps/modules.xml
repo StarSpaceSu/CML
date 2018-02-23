@@ -2,9 +2,9 @@
 <project version="4">
   <component name="MPSProject">
     <projectModules>
-      <modulePath path="$PROJECT_DIR$/languages/CML/CML.mpl" folder="" />
-      <modulePath path="$PROJECT_DIR$/languages/CML/runtime/CML.runtime.msd" folder="" />
-      <modulePath path="$PROJECT_DIR$/languages/CML/sandbox/CML.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/su.starspace.mps.SDML.CML/runtime/su.starspace.mps.SDML.CML.runtime.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/su.starspace.mps.SDML.CML/sandbox/su.starspace.mps.SDML.CML.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/su.starspace.mps.SDML.CML/su.starspace.mps.SDML.CML.mpl" folder="" />
     </projectModules>
   </component>
 </project>
